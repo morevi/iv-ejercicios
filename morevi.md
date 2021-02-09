@@ -1,3 +1,5 @@
+Los ejercicios se encuentran en este [repositorio](https://github.com/morevi/iv-ejercicios)
+
 ## Objetivos a cubrir durante la primera semana
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
