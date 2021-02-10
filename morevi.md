@@ -23,6 +23,10 @@ Los ejercicios se encuentran en este [repositorio](https://github.com/morevi/iv-
 - [x] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales.
 - [x] Entender el concepto de DevOps.
 
+## Objetivos a cumplir durante la cuarta semana
+- [x] Entender Docker y el ecosistema de contenedores.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
 ## Objetivos a cumplir durante la quinta semana
 - [x] Por qué hay que automatizar en lo posible el ciclo de vida del software.
 - [x] En qué consisten el desarrollo basado en pruebas y las pruebas unitarias.
