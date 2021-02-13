@@ -34,3 +34,8 @@ Los ejercicios se encuentran en este [repositorio](https://github.com/morevi/iv-
 - [x] Por qué se usan entornos virtuales de desarrollo
 - [x] Aprender sobre las herramientas de construcción, y el proceso de construcción, minificación o transpilación
 - [x] Qué es la integración contínua y por qué será nuestra amiga y enemiga
+
+## Objetivos a cumplir durante la quinta semana
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
